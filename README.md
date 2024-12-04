@@ -1,12 +1,12 @@
 ![Dojo Feature Matrix](.github/feature_matrix.png)
 
-# Dojo: Provable Games and Applications [![discord](https://img.shields.io/badge/join-dojo-green?logo=discord&logoColor=white)](https://discord.com/invite/dojoengine) [![Telegram Chat][tg-badge]][tg-url] ![Github Actions][gha-badge]
+# Dojo: Provable Games and Applications [![discord](https://img.shields.io/badge/join-dojo-green?logo=discord&logoColor=white)](https://discord.com/invite/dojoengine) [![Telegram Chat][tg-badge]][tg-url] ![Github Actions][https://github.com/dojoengine/dojo/actions]
 
 [gha-badge]: https://img.shields.io/github/actions/workflow/status/dojoengine/dojo/ci.yml?branch=main
 [tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fdojoengine
 [tg-url]: https://t.me/dojoengine
 
-Dojo is a developer friendly framework for building **provable** Games, Autonomous Worlds and other Applications that are natively composable, extensible, permissionless and persistent. It is an extension of [Cairo](https://www.cairo-lang.org/), an efficiently provable language, that supports generation of zero-knowledge proofs attesting to a computations validity and enables exponential scaling of onchain computation while maintaining the security properties of Ethereum.
+[Dojo](https://book.dojoengine.org/what-is-dojo) is a developer friendly framework for building **provable** Games, Autonomous Worlds and other Applications that are natively composable, extensible, permissionless and persistent. It is an extension of [Cairo](https://www.cairo-lang.org/), an efficiently provable language, that supports generation of zero-knowledge proofs attesting to a computations validity and enables exponential scaling of onchain computation while maintaining the security properties of Ethereum.
 
 It is designed to significantly reduce the complexity of developing provable applications that can be deployed to and verified by blockchains. It does so by providing a ~zero-cost abstraction for developers to succinctly define provable applications and a robust toolchain for building, migrating, deploying, proving and settling these worlds in production.
 
